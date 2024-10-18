@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on any project related to my mentioned experience
 
 ### 🛠 Technologies & Tools
-- **Languages**: Python, JavaScript, C++
+- **Languages**: Python, JavaScript, C++,C#
 - **Frameworks**: Flask, Django, Vue.js, FastAPI
 - **Tools**: Git, OpenCV, PIL, YOLO, mediapipe, selenium, Scikit-Learn, tensor flow, Unity engine, Unity ML-toolkit
 
